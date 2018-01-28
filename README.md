@@ -107,4 +107,4 @@ Pull requests will not be accepted for now, I'd be happy for any suggestions and
 
 ## License
 
-This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details
+This project is licensed under the MIT License.
