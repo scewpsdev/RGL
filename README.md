@@ -19,7 +19,7 @@ Using a different editor/IDE is also possible, but you'll have to setup the clas
 
 Here is a simple triangle example using the library. It covers creating an OpenGL display, vertex arrays, element array buffers, shaders and textures.
 
-```
+```Java
 package test;
 
 import java.awt.Color;
